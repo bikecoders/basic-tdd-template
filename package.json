@@ -1,0 +1,18 @@
+{
+  "name": "basic-tdd-template",
+  "version": "0.0.1",
+  "description": "Super Basic Template to start doing TDD. Special for dummy projects, Hacker Rank exercises, POC.",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:debug": "node --inspect-brk=0.0.0.0 node_modules/.bin/jest --runInBand"
+  },
+  "author": "Diego Juliao <dianjuar@gmail.com>",
+  "license": "MIT"
+}
