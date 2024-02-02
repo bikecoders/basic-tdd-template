@@ -4,8 +4,8 @@
   "description": "Super Basic Template to start doing TDD. Special for dummy projects, Hacker Rank exercises, POC.",
   "dependencies": {},
   "devDependencies": {
-    "@types/jest": "26.0.23",
-    "jest": "24.9.0"
+    "@types/jest": "29.5.12",
+    "jest": "29.7.0"
   },
   "scripts": {
     "test": "jest",
